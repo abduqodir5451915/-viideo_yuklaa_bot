@@ -13,4 +13,3 @@ Telegram bot for downloading Instagram and TikTok videos.
    ```bash
    git clone https://github.com/abduqodir5451915/-viideo_yuklaa_bot.git
 pip install -r requirements.txt
- 
